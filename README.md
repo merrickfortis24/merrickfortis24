@@ -1,61 +1,78 @@
+<div align="center">
+
 # 👋 Hi, I'm John Merrick Fortis
 
-🎓 BSIT Student Developer from the Philippines
+### 💻 Full Stack Developer | BSIT - Mobile & Web Applications
 
-💻 I build web and mobile applications focused on creating practical and user-friendly systems.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Laravel+Developer;Flutter+Developer;.NET+MAUI+Learner;Building+AI-Powered+Applications)](https://git.io/typing-svg)
 
-🩸 Currently working on **eDonate**, a blood donation management system for donors and blood donation facilities.
-
-## 💻 Tech Stack
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-## 🚀 Current Project
-
-### 🩸 eDonate
-
-A blood donation management system designed to connect donors and blood donation facilities.
-
-**Technologies used:**
-
-- Laravel
-- PHP
-- MySQL
-- Flutter
-- Dart
-- Firebase
+</div>
 
 ---
 
-## 📫 Connect With Me
+# 🚀 About Me
 
-GitHub: [@merrickfortis24](https://github.com/merrickfortis24)
+🎓 BSIT Student majoring in Mobile & Web Applications
+
+🩸 Creator of **eDonate**, an AI-powered Blood Donation Management System
+
+💻 Passionate about Full Stack Development, Mobile Apps, AI Integration, and Cybersecurity.
+
+📍 Philippines
+
+---
+
+# 💻 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,firebase,mysql,bootstrap,js,html,css,git,github,vscode"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- .NET MAUI
+- AI Integration
+- REST APIs
+- Cybersecurity
+- Clean Architecture
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=merrickfortis24&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+# 🔥 GitHub Streak
+
+![](https://streak-stats.demolab.com?user=merrickfortis24&theme=tokyonight&hide_border=true)
+
+---
+
+# 📈 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=merrickfortis24&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=merrickfortis24&theme=tokyonight&no-frame=true&column=4)
+
+---
+
+# 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=merrickfortis24&color=00E5FF&style=for-the-badge)
+
+---
+
+# 📫 Connect with Me
+
+- 💼 LinkedIn: *(Add your LinkedIn URL here)*
+- 📧 Email: *(Add your email here)*
