@@ -1,5 +1,3 @@
-<div align="center">
-
 # 💻 What I work with
 
 ### Languages
@@ -37,7 +35,7 @@
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| 🩸 eDonate | Blood Donation Management System | <img src="https://skillicons.dev/icons?i=laravel,flutter,mysql,firebase" /> |
-| 🍵 Nai Tsa Admin | Admin Management System | <img src="https://skillicons.dev/icons?i=laravel,mysql" /> |
-| 🛒 Nai Tsa Ordering Web System | Web-based Ordering System | <img src="https://skillicons.dev/icons?i=laravel,mysql,js" /> |
-| 🚗 Nai Tsa Driver App | Mobile Driver Application | <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" /> |
+| 🩸 eDonate | Blood donation management system with donor scheduling, eligibility tracking, mapping, notifications, and AI-powered features. | Laravel • PHP • MySQL • Flutter • Firebase |
+| 🍵 Nai Tsa Admin | Administrative management system for managing orders, drivers, users, and business operations. | Laravel • PHP • MySQL |
+| 🛒 Nai Tsa Ordering Web System | Web-based ordering platform where customers can browse products and place orders online. | PHP • Laravel • MySQL • JavaScript |
+| 🚗 Nai Tsa Driver App | Mobile application for drivers to manage assigned deliveries and update order status. | Flutter • Dart • Firebase |
